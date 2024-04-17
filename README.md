@@ -20,6 +20,6 @@ Artificial Network
 
 ## Regression
 Artificial Network
-- Root Mean Square Error (RMSE): 0.398346848315208
-- Mean Absolute Error (MAE): 0.31575997952371837
-- R-squared (R^2): 0.00824867773337945
+- Root Mean Square Error (RMSE): 580.6195845038354
+- Mean Absolute Error (MAE): 468.29817749023437
+- R-squared (R^2): 0.97192475807527
